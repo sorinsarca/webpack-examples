@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/h.css"],"names":[],"mappings":"AAAA,KACI,kBAAuB","file":"common.css","sourcesContent":["body {\n    background: lightcoral;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/h.css"],"sourceRoot":""}

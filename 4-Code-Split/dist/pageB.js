@@ -1,0 +1,2 @@
+webpackJsonp([1],{13:function(n,t,e){"use strict";var o=e(3),r=function(n){if(n&&n.__esModule)return n;var t={};if(null!=n)for(var e in n)Object.prototype.hasOwnProperty.call(n,e)&&(t[e]=n[e]);return t.default=n,t}(o),u=e(6),a=function(n){return n&&n.__esModule?n:{default:n}}(u);e(5),e(18);r.appendToBody(function(n){return r.createButton("Button on page "+n+" - "+a.default.version)}("B"))},18:function(n,t){}},[13]);
+//# sourceMappingURL=pageB.js.map

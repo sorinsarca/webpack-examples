@@ -1,0 +1,2 @@
+webpackJsonp(["pageB"],{"7GtK":function(t,n){},JIOT:function(t,n,e){"use strict";var o=e("oGFv"),r=function(t){if(t&&t.__esModule)return t;var n={};if(null!=t)for(var e in t)Object.prototype.hasOwnProperty.call(t,e)&&(n[e]=t[e]);return n.default=t,n}(o),u=e("GiK3"),a=function(t){return t&&t.__esModule?t:{default:t}}(u);e("tD9f"),e("7GtK");r.appendToBody(function(t){return r.createButton("Button on page "+t+" - "+a.default.version)}("B"))}},["JIOT"]);
+//# sourceMappingURL=pageB.js.map

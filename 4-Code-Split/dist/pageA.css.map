@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/a.css"],"names":[],"mappings":"AAAA,OACI,SAAW","file":"pageA.css","sourcesContent":["button {\n    color: red;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/a.css"],"sourceRoot":""}

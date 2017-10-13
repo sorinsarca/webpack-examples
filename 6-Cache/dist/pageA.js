@@ -1,0 +1,2 @@
+webpackJsonp(["pageA"],{aQZI:function(t,o,n){"use strict";var e=n("oGFv"),a=function(t){if(t&&t.__esModule)return t;var o={};if(null!=t)for(var n in t)Object.prototype.hasOwnProperty.call(t,n)&&(o[n]=t[n]);return o.default=t,o}(e);n("tD9f"),n("ocKd");var r=a.createButton("Button on page A");a.appendToBody(r)},ocKd:function(t,o){}},["aQZI"]);
+//# sourceMappingURL=pageA.js.map

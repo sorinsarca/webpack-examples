@@ -1,0 +1,2 @@
+webpackJsonp([0],{3:function(t,e,n){"use strict";function u(t){return(0,a.default)("<button>"+t+"</button>")}function o(t){(0,a.default)("body").append(t)}Object.defineProperty(e,"__esModule",{value:!0}),e.createButton=u,e.appendToBody=o;var d=n(4),a=function(t){return t&&t.__esModule?t:{default:t}}(d)},5:function(t,e){}});
+//# sourceMappingURL=common.js.map

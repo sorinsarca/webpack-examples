@@ -1,0 +1,2 @@
+webpackJsonp([2],{10:function(t,n,e){"use strict";var o=e(3),r=function(t){if(t&&t.__esModule)return t;var n={};if(null!=t)for(var e in t)Object.prototype.hasOwnProperty.call(t,e)&&(n[e]=t[e]);return n.default=t,n}(o);e(5),e(12);var a=r.createButton("Button on page A");r.appendToBody(a)},12:function(t,n){}},[10]);
+//# sourceMappingURL=pageA.js.map

@@ -1,0 +1,5 @@
+/* import resolved by css-loader */
+@import url('./h.css');
+button {
+    color: red;
+}

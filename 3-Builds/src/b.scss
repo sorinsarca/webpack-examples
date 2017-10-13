@@ -1,0 +1,5 @@
+$color: blue;
+button {
+    color: lighten($color, 20%);
+    font-weight: bold;
+}
